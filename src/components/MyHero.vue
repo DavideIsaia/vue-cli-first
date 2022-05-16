@@ -6,6 +6,6 @@
 
 <style lang="scss">
 img {
-  width: 80%;
+  width: 70%;
 }
 </style>
